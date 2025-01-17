@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/WordConnect/Scenes/Main_List.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

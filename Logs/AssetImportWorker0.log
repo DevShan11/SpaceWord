@@ -1,0 +1,351 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.35f1 (011206c7a712) revision 70150'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16328 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Zeeshan_Projects/Space Word Puzzle
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50209
+Successfully changed project path to: E:/Zeeshan_Projects/Space Word Puzzle
+E:/Zeeshan_Projects/Space Word Puzzle
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [18772] Host "[IP] 192.168.1.9 [Port] 0 [Flags] 2 [Guid] 2406132560 [EditorId] 2406132560 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-FE5JPMV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [18772] Host "[IP] 192.168.1.9 [Port] 0 [Flags] 2 [Guid] 2406132560 [EditorId] 2406132560 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-FE5JPMV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 10.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.35f1 (011206c7a712)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Zeeshan_Projects/Space Word Puzzle/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.35f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.35f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.35f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011507 seconds.
+- Loaded All Assemblies, in  0.351 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 278 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.579 seconds
+Domain Reload Profiling: 929ms
+	BeginReloadAssembly (106ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (139ms)
+		LoadAssemblies (104ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (136ms)
+			TypeCache.Refresh (135ms)
+				TypeCache.ScanAssembly (122ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (579ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (527ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (380ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (103ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.695 seconds
+Refreshing native plugins compatible for Editor in 2.90 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.661 seconds
+Domain Reload Profiling: 1353ms
+	BeginReloadAssembly (144ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (465ms)
+		LoadAssemblies (346ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (204ms)
+			TypeCache.Refresh (167ms)
+				TypeCache.ScanAssembly (148ms)
+			ScanForSourceGeneratedMonoScriptInfo (24ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (661ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (502ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (357ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 3.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4141 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 72 unused Assets / (245.9 KB). Loaded Objects now: 4600.
+Memory consumption went from 148.4 MB to 148.1 MB.
+Total: 4.116800 ms (FindLiveObjects: 0.489300 ms CreateObjectMapping: 0.131600 ms MarkObjects: 3.274900 ms  DeleteObjects: 0.220000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2713.157958 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/coin-circle-bkg.png
+  artifactKey: Guid(b4ba4887b63d542fc87176f5cfab52c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/coin-circle-bkg.png using Guid(b4ba4887b63d542fc87176f5cfab52c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7c7be41ea18ba7feba7ac240895be5dc') in 0.073073 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 229.885412 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/Untitled design (15).png
+  artifactKey: Guid(e875181e644447244ae87e078bee325e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/Untitled design (15).png using Guid(e875181e644447244ae87e078bee325e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e037e40fe3598a66b418e645125595c0') in 0.019728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 210.672178 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/Untitled design (16).png
+  artifactKey: Guid(e588e783f85462c4ebfa0404ce81f735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/Untitled design (16).png using Guid(e588e783f85462c4ebfa0404ce81f735) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fb7ba6d7f633b75118e5e6a4b6fb270d') in 0.016896 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 484.106147 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/Untitled design (16).png
+  artifactKey: Guid(e588e783f85462c4ebfa0404ce81f735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/Untitled design (16).png using Guid(e588e783f85462c4ebfa0404ce81f735) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '82bd5996c613f8d93db16641af1924be') in 0.030242 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 33.627807 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/Untitled design (17).png
+  artifactKey: Guid(54bf0ebebd22ca849b76185bd7cc9097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/Untitled design (17).png using Guid(54bf0ebebd22ca849b76185bd7cc9097) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'eee9b6bcdec30713b9dd7820869feb7e') in 0.015690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 48.712399 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/coin.png
+  artifactKey: Guid(26efcb2a4f5c64660936efaffc6cd2ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/coin.png using Guid(26efcb2a4f5c64660936efaffc6cd2ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9e929f26b89c892ee03ec5d47729716a') in 0.014894 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 80.221825 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/Backgrounds/New Folder
+  artifactKey: Guid(913f847c62d10af469d996997a8433f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/Backgrounds/New Folder using Guid(913f847c62d10af469d996997a8433f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e3130b0a0e92653f965c57237c6341ca') in 0.000615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 47.249240 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/NewUIImages
+  artifactKey: Guid(8192a19d312790c4fa2a554ae8554c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/NewUIImages using Guid(8192a19d312790c4fa2a554ae8554c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '97aafae41fd5f6e1ea674d4815ffe42e') in 0.000509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 47.312666 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/NewUIImages/coin-circle-bkg_New.png
+  artifactKey: Guid(e588e783f85462c4ebfa0404ce81f735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/NewUIImages/coin-circle-bkg_New.png using Guid(e588e783f85462c4ebfa0404ce81f735) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '49d392cee2c5cb84829f077a7797575b') in 0.029645 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 17.244053 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/NewUIImages/Untitled design (18).png
+  artifactKey: Guid(e3f0e6984bcaafa42a29d07f86fcfcbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/NewUIImages/Untitled design (18).png using Guid(e3f0e6984bcaafa42a29d07f86fcfcbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7f9b07e5387808566ebe18622b33816f') in 0.014503 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 14.464428 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/NewUIImages/coin_New.png
+  artifactKey: Guid(e3f0e6984bcaafa42a29d07f86fcfcbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/NewUIImages/coin_New.png using Guid(e3f0e6984bcaafa42a29d07f86fcfcbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2dfef4a70fbb307c3706695c9878852b') in 0.025219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 196.424383 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/NewUIImages/Untitled design (19).png
+  artifactKey: Guid(4d1760f5f38bcad42a51dcebe8efd99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/NewUIImages/Untitled design (19).png using Guid(4d1760f5f38bcad42a51dcebe8efd99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6bbdb848b1328f90bcc0456863de568f') in 0.015616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 14.150740 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/NewUIImages/coin_New.png
+  artifactKey: Guid(4d1760f5f38bcad42a51dcebe8efd99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/NewUIImages/coin_New.png using Guid(4d1760f5f38bcad42a51dcebe8efd99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bb5b00fbf5773a63dc0ae1bc80f6fb69') in 0.029150 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 32.388173 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/icon-settings.png
+  artifactKey: Guid(7ec0c2f96a3f5474487d0cf8a3e3cfe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/icon-settings.png using Guid(7ec0c2f96a3f5474487d0cf8a3e3cfe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0f9029e76f6c6bea7bfbc756ac0b51c3') in 0.017069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 285.954357 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/NewUIImages/Untitled design (20).png
+  artifactKey: Guid(b794fb6204a82bd479343bca3dbf48e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/NewUIImages/Untitled design (20).png using Guid(b794fb6204a82bd479343bca3dbf48e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b84c87da95736477110585ff40d88342') in 0.015559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 9.004998 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/NewUIImages/icon-settings_nEW.png
+  artifactKey: Guid(b794fb6204a82bd479343bca3dbf48e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/NewUIImages/icon-settings_nEW.png using Guid(b794fb6204a82bd479343bca3dbf48e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6e452c2ebdc90ad5116fd098358d5069') in 0.032815 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 7.950324 seconds.
+  path: Assets/WordConnect/AssetFiles/Images/NewUIImages/icon-settings_New.png
+  artifactKey: Guid(b794fb6204a82bd479343bca3dbf48e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WordConnect/AssetFiles/Images/NewUIImages/icon-settings_New.png using Guid(b794fb6204a82bd479343bca3dbf48e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '05c33ab40e4891ad4e5beb77eba6f9ac') in 0.029265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
